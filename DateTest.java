@@ -7,6 +7,8 @@ public class DateTest {
         System.out.println("Enter month: ");
         int month = input.nextInt();
 
+        ()
+
         System.out.println("Enter day: ");
         int day = input.nextInt();
 
